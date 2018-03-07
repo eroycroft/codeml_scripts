@@ -1,3 +1,3 @@
 # codeml_scripts
-some useful scripts for generating input and manipulating output from codeml
+Some useful scripts for generating control files and manipulating output from codeml
 
